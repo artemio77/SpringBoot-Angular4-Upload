@@ -1,0 +1,36 @@
+Datafix
+Instruction:
+1. Compare checksum:
+
+MD5_COGEDARWIN_90648_BEFORE_MERGE.txt with COGEDARWIN_90648_BEFORE_MERGE.sql
+
+MD5_COGEDARWIN_90648_DF.txt with COGEDARWIN_90648_DF.sql
+
+MD5_COGEDARWIN_90648_CA_WITH_ERROR.txt with COGEDARWIN_90648_CA_WITH_ERROR.sql
+
+MD5_COGEDARWIN_90648_UPDATED_ORDERS_AFTER_MERGE.txt with COGEDARWIN_90648_UPDATED_ORDERS_AFTER_MERGE.sql
+
+MD5_COGEDARWIN_90648_ORDER_IDS.txt with COGEDARWIN_90648_ORDER_IDS.sql
+
+2. Execute   in SQL Plus on TOMS DB
+
+3. Execute COGEDARWIN_90648_ORDER_IDS.sql on TOMS DB in SQL Developer and SAVE results in excel format and attach it in the ticket with name 'Before_Datafix.xlsx'
+
+4. Execute COGEDARWIN_90648_CA_WITH_ERROR.sql on TOMS DB in SQL Developer and SAVE results in text format and attach it in the ticket with name 'Customer_accounts.txt' 
+
+5. Execute COGEDARWIN_90648_DF.sql  in SQL Plus on TOMS DB
+
+6. Commit;
+
+
+1. Compare checksum:
+MD5_COGEDARWIN_90648_UPDATED_ORDERS_AFTER_MERGE.txt with COGEDARWIN_90648_UPDATED_ORDERS_AFTER_MERGE.sql
+7. Execute COGEDARWIN_90648_TASKS_FOR_RETRY.sql  on TOMS DB in SQL Developer and SAVE results in text format and attach it in the ticket with name 'Tasks_for_retry.txt'
+
+8. Execute COGEDARWIN_90648_UPDATED_ORDERS_AFTER_MERGE.sql  on TOMS DB in SQL Developer and SAVE results in excel format and attach it in the ticket with name 'After_Datafix.xlsx'
+
+9. Attach generated COGEDARWIN_90648_dtm_align.lst file to this ticket
+
+10. Execute COGEDARWIN_90648_CLEAU_UP.sql in SQL Plus on TOMS DB
+
+11. Attach the file 'Tasks_for_retry.txt' to PUSH ticket COGEDARWIN_90648 with comment.
