@@ -13,11 +13,12 @@
 ### IntelliJ IDEA ###
 SpringBootUploadFile/.idea
 SpringBootUploadFile/upload-dir
+SpringBootUploadFile/target
 *.iws
 *.iml
 *.ipr
 .idea
-Angular4Upload/.idea
+/Angular4Upload/.idea
 
 ### NetBeans ###
 /nbproject/private/
