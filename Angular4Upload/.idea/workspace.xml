@@ -2,1102 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d961c22b-e2c7-436e-b8b9-9149ccd23fb7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.angular-cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Angular4Upload.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/_ts-node" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/_ts-node.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/acorn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/acorn.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/ansi-html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/ansi-html.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/atob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/atob.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/babylon" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/babylon.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/browserslist.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/cssesc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/cssesc.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/csso" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/csso.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/errno" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/errno.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/esparse" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/esparse.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/esvalidate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/esvalidate.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/handlebars" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/handlebars.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/he" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/he.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/html-minifier" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/html-minifier.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/image-size" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/image-size.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/in-install" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/in-install.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/in-publish" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/in-publish.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/jasmine" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/jasmine.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/js-yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/js-yaml.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/jsesc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/jsesc.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/json5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/json5.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/karma" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/karma.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/lessc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/lessc.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/loose-envify" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/loose-envify.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/miller-rabin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/miller-rabin.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/mime" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/mime.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/mkdirp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/mkdirp.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/ng" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/ng-xi18n" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/ng-xi18n.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/ng.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/ngc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/ngc.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/node-gyp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/node-gyp.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/node-sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/node-sass.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/nopt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/nopt.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/not-in-install" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/not-in-install.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/not-in-publish" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/not-in-publish.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/protractor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/protractor.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/regjsparser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/regjsparser.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/rimraf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/rimraf.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/sassgraph" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/sassgraph.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/semver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/semver.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/sha.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/sha.js.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/sshpk-conv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/sshpk-conv.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/sshpk-sign" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/sshpk-sign.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/sshpk-verify" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/sshpk-verify.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/strip-indent" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/strip-indent.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/stylus" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/stylus.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/svgo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/svgo.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/ts-node" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/ts-node.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/tsc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/tsc.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/tsickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/tsickle.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/tslint" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/tslint.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/tsserver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/tsserver.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/uglifyjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/uglifyjs.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/user-home" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/user-home.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/uuid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/uuid.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/webdriver-manager" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/webdriver-manager.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/webpack" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/webpack-dev-server" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/webpack-dev-server.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/webpack.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/which" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/which.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations.es5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations.es5.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations/browser.es5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations/browser.es5.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations/browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations/browser.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations/browser/testing.es5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations/browser/testing.es5.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations/browser/testing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations/browser/testing.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/animations.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/animations.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/index.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/public_api.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/browser.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/animation.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/animation_ast.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/animation_ast.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/animation_ast_builder.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/animation_dsl_visitor.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/animation_dsl_visitor.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/animation_timeline_builder.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/animation_timeline_instruction.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/animation_transition_expr.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/animation_transition_factory.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/animation_transition_instruction.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/animation_trigger.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/element_instruction_map.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/style_normalization/animation_style_normalizer.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/style_normalization/animation_style_normalizer.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/style_normalization/web_animations_style_normalizer.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/private_export.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/render/animation_driver.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/render/animation_driver.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/render/animation_engine_instruction.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/render/animation_engine_next.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/render/shared.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/render/shared.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/render/timeline_animation_engine.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/render/transition_animation_engine.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/render/web_animations/dom_animation.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/render/web_animations/web_animations_driver.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/render/web_animations/web_animations_player.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/util.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/src/util.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/testing.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/testing.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/testing/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/testing/index.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/testing/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/testing/src/mock_animation_driver.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/testing/src/mock_animation_driver.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/testing/src/testing.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/testing/src/testing.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser-testing.umd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser-testing.umd.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser-testing.umd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser-testing.umd.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser.umd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser.umd.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser.umd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser.umd.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations.umd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations.umd.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations.umd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations.umd.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/public_api.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/src/animation_builder.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/src/animation_event.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/src/animation_metadata.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/src/animations.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/src/players/animation_group_player.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/src/players/animation_player.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/src/private_export.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/animations/src/util.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/addon/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/bin/ng" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/class/files/__path__/__name__.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/class/files/__path__/__name__.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/class/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/class/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/class/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/class/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/component/files/__path__/__name__.component.__styleext__" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/component/files/__path__/__name__.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/component/files/__path__/__name__.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/component/files/__path__/__name__.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/component/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/component/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/component/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/component/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/directive/files/__path__/__name__.directive.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/directive/files/__path__/__name__.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/directive/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/directive/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/directive/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/directive/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/enum/files/__path__/__name__.enum.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/enum/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/enum/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/enum/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/enum/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/guard/files/__path__/__name__.guard.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/guard/files/__path__/__name__.guard.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/guard/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/guard/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/guard/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/guard/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/interface/files/__path__/__name__.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/interface/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/interface/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/interface/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/interface/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/module/files/__path__/__name__-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/module/files/__path__/__name__.module.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/module/files/__path__/__name__.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/module/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/module/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/module/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/module/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/__path__/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/__path__/app/app.component.__styleext__" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/__path__/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/__path__/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/__path__/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/__path__/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/__path__/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/__path__/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/__path__/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/__path__/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/__path__/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/__path__/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/__path__/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/__path__/styles.__styleext__" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/__path__/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/__path__/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/__path__/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/__path__/typings.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/angular-cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/e2e/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/e2e/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/files/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/ng/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/pipe/files/__path__/__name__.pipe.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/pipe/files/__path__/__name__.pipe.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/pipe/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/pipe/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/pipe/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/pipe/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/service/files/__path__/__name__.service.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/service/files/__path__/__name__.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/service/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/service/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/service/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/blueprints/service/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/build.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/build.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/completion.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/completion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/completion.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/destroy.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/destroy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/destroy.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/doc.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/doc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/doc.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/e2e.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/e2e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/e2e.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/easter-egg.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/easter-egg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/easter-egg.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/eject.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/eject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/eject.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/generate.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/generate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/generate.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/get.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/get.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/get.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/help.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/help.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/help.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/init.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/init.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/lint.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/lint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/lint.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/new.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/new.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/new.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/serve.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/serve.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/serve.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/set.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/set.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/set.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/test.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/test.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/version.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/version.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/version.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/xi18n.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/xi18n.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/commands/xi18n.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/cli/cli.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/cli/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/cli/lookup-command.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/commands.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/commands/generate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/commands/unknown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/ext/core-object.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/ext/promise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/models/addon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/models/blueprint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/models/command.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/models/edit-file-diff.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/models/file-info.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/models/installation-checker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/models/project.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/models/task.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/tasks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/tasks/destroy-from-blueprint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/tasks/generate-from-blueprint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/tasks/install-blueprint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/tasks/npm-install.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/tasks/npm-task.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/ui/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/ui/write-error.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/utilities/get-option-args.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/utilities/get-package-base-name.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/utilities/merge-blueprint-options.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/utilities/mk-tmp-dir-in.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/utilities/normalize-blueprint-option.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/utilities/open-editor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/utilities/parse-options.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/utilities/path.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/utilities/platform-checker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/utilities/print-command.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/utilities/printable-properties.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/utilities/sequence.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/ast-tools/ast-utils.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/ast-tools/ast-utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/ast-tools/ast-utils.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/ast-tools/change.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/ast-tools/change.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/ast-tools/change.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/ast-tools/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/ast-tools/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/ast-tools/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/ast-tools/node.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/ast-tools/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/ast-tools/node.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/ast-tools/route-utils.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/ast-tools/route-utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/ast-tools/route-utils.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/ast-tools/spec-utils.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/ast-tools/spec-utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/ast-tools/spec-utils.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/base-href-webpack/base-href-webpack-plugin.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/base-href-webpack/base-href-webpack-plugin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/base-href-webpack/base-href-webpack-plugin.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/base-href-webpack/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/base-href-webpack/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/base-href-webpack/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/cli/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/config/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/lib/config/schema.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/build-options.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/build-options.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/build-options.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/config.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/config.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/config/config.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/config/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/config/config.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/config/spec-schema.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/error.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/error.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/error.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-config.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-config.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/browser.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/browser.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/common.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/common.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/development.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/development.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/development.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/production.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/production.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/production.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/styles.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/styles.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/test.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/test.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/typescript.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/typescript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/typescript.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/utils.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/utils.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/xi18n.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/xi18n.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-configs/xi18n.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-test-config.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-test-config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-test-config.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-xi18n-config.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-xi18n-config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/models/webpack-xi18n-config.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/plugins/glob-copy-webpack-plugin.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/plugins/glob-copy-webpack-plugin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/plugins/glob-copy-webpack-plugin.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/plugins/karma-context.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/plugins/karma-debug.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/plugins/karma-webpack-throw-error.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/plugins/karma-webpack-throw-error.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/plugins/karma-webpack-throw-error.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/plugins/karma.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/plugins/karma.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/plugins/karma.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/plugins/static-asset.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/plugins/static-asset.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/plugins/static-asset.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/plugins/suppress-entry-chunks-webpack-plugin.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/plugins/suppress-entry-chunks-webpack-plugin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/plugins/suppress-entry-chunks-webpack-plugin.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/plugins/webpack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/build.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/build.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/doc.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/doc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/doc.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/e2e.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/e2e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/e2e.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/eject.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/eject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/eject.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/extract-i18n.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/extract-i18n.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/extract-i18n.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/git-init.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/git-init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/git-init.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/init.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/init.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/link-cli.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/link-cli.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/link-cli.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/lint.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/lint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/lint.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/npm-install.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/npm-install.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/npm-install.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/serve.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/serve.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/serve.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/test.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/tasks/test.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/upgrade/version.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/upgrade/version.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/upgrade/version.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/INITIAL_COMMIT_MESSAGE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/app-utils.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/app-utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/app-utils.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/ast-utils.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/ast-utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/ast-utils.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/change.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/change.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/change.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/check-package-manager.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/check-package-manager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/check-package-manager.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/check-port.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/check-port.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/check-port.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/dynamic-path-parser.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/dynamic-path-parser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/dynamic-path-parser.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/find-parent-module.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/find-parent-module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/find-parent-module.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/find-up.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/find-up.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/find-up.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/get-dependent-files.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/get-dependent-files.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/get-dependent-files.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/module-resolver.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/module-resolver.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/module-resolver.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/override-options.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/override-options.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/override-options.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/package-chunk-sort.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/package-chunk-sort.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/package-chunk-sort.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/prerender-webpack-plugin.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/prerender-webpack-plugin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/prerender-webpack-plugin.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/require-project-module.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/require-project-module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/require-project-module.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/resolve-module-file.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/resolve-module-file.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/resolve-module-file.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/route-utils.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/route-utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/route-utils.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/validate-project-name.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/validate-project-name.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/cli/utilities/validate-project-name.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/@angular/common.es5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/@angular/common.es5.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/@angular/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/@angular/common.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/@angular/common/http.es5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/@angular/common/http.es5.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/@angular/common/http.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/@angular/common/http.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/@angular/common/http/testing.es5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/@angular/common/http/testing.es5.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/@angular/common/http/testing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/@angular/common/http/testing.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/@angular/common/testing.es5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/@angular/common/testing.es5.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/@angular/common/testing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/@angular/common/testing.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/bundles/common-http-testing.umd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/bundles/common-http-testing.umd.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/bundles/common-http-testing.umd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/bundles/common-http-testing.umd.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/bundles/common-http.umd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/bundles/common-http.umd.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/bundles/common-http.umd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/bundles/common-http.umd.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/bundles/common-testing.umd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/bundles/common-testing.umd.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/bundles/common-testing.umd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/bundles/common-testing.umd.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/bundles/common.umd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/bundles/common.umd.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/bundles/common.umd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/bundles/common.umd.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/common.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/common.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/index.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/public_api.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/src/backend.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/src/client.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/src/headers.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/src/interceptor.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/src/jsonp.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/src/module.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/src/params.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/src/request.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/src/response.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/src/xhr.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/src/xsrf.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/testing.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/testing.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/testing/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/testing/index.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/testing/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/testing/public_api.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/testing/src/api.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/testing/src/backend.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/testing/src/module.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/http/testing/src/request.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/public_api.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/common.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/common_module.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/cookie.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/directives/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/directives/ng_class.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/directives/ng_component_outlet.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/directives/ng_for_of.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/directives/ng_if.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/directives/ng_plural.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/directives/ng_style.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/directives/ng_switch.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/directives/ng_template_outlet.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/dom_tokens.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/localization.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/location/hash_location_strategy.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/location/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/location/location.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/location/location_strategy.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/location/path_location_strategy.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/location/platform_location.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/pipes/async_pipe.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/pipes/case_conversion_pipes.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/pipes/date_pipe.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/pipes/i18n_plural_pipe.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/pipes/i18n_select_pipe.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/pipes/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/pipes/intl.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/pipes/invalid_pipe_argument_error.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/pipes/json_pipe.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/pipes/number_pipe.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/pipes/slice_pipe.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/platform_id.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/src/version.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/testing.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/testing.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/testing/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/testing/index.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/testing/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/testing/src/location_mock.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/testing/src/location_mock.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/testing/src/mock_location_strategy.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/testing/src/mock_location_strategy.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/testing/src/testing.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/common/testing/src/testing.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/minimist/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/minimist/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/minimist/example/parse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/minimist/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/minimist/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/minimist/readme.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/minimist/test/all_bool.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/minimist/test/bool.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/minimist/test/dash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/minimist/test/default_bool.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/minimist/test/dotted.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/minimist/test/kv_short.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/minimist/test/long.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/minimist/test/num.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/minimist/test/parse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/minimist/test/parse_modified.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/minimist/test/short.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/minimist/test/stop_early.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/minimist/test/unknown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/minimist/test/whitespace.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/codegen.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/codegen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/codegen.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/compiler_host.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/compiler_host.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/compiler_host.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/check_types.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/check_types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/check_types.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/expression_diagnostics.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/expression_diagnostics.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/expression_diagnostics.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/expression_type.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/expression_type.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/expression_type.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/symbols.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/symbols.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/symbols.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/typescript_symbols.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/typescript_symbols.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/typescript_symbols.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/extract_i18n.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/extract_i18n.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/extract_i18n.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/extractor.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/extractor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/extractor.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/main.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/main.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngc.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngc.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtools_api.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtools_api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtools_api.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtools_impl.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtools_impl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtools_impl.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/path_mapped_compiler_host.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/path_mapped_compiler_host.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/path_mapped_compiler_host.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/api.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/api.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/entry_points.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/entry_points.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/entry_points.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/module_filename_resolver.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/module_filename_resolver.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/module_filename_resolver.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/node_emitter.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/node_emitter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/node_emitter.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/node_emitter_transform.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/node_emitter_transform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/node_emitter_transform.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/program.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/program.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/program.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/version.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/version.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/version.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/@angular/compiler.es5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/@angular/compiler.es5.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/@angular/compiler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/@angular/compiler.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/@angular/compiler/testing.es5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/@angular/compiler/testing.es5.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/@angular/compiler/testing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/@angular/compiler/testing.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/bundles/compiler-testing.umd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/bundles/compiler-testing.umd.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/bundles/compiler-testing.umd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/bundles/compiler-testing.umd.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/bundles/compiler.umd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/bundles/compiler.umd.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/bundles/compiler.umd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/bundles/compiler.umd.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/compiler.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/compiler.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/aot/compiler.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/aot/compiler.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/aot/compiler_factory.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/aot/compiler_factory.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/aot/compiler_host.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/aot/compiler_host.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/aot/compiler_options.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/aot/compiler_options.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/aot/generated_file.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/aot/generated_file.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/aot/static_reflector.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/aot/static_reflector.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/aot/static_symbol.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/aot/static_symbol.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/aot/static_symbol_resolver.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/aot/static_symbol_resolver.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/aot/summary_resolver.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/aot/summary_resolver.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/aot/summary_serializer.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/aot/summary_serializer.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/aot/util.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/aot/util.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/assertions.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/assertions.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ast_path.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ast_path.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/chars.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/chars.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/compile_metadata.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/compile_metadata.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/compile_reflector.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/compile_reflector.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/compiler.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/compiler.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/compiler_util/expression_converter.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/compiler_util/expression_converter.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/config.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/config.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/directive_normalizer.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/directive_normalizer.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/directive_resolver.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/directive_resolver.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/expression_parser/ast.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/expression_parser/ast.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/expression_parser/lexer.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/expression_parser/lexer.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/expression_parser/parser.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/expression_parser/parser.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/digest.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/digest.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/extractor.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/extractor.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/extractor_merger.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/extractor_merger.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/i18n_ast.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/i18n_ast.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/i18n_html_parser.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/i18n_html_parser.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/i18n_parser.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/i18n_parser.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/index.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/message_bundle.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/message_bundle.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/parse_util.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/parse_util.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/serializers/placeholder.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/serializers/placeholder.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/serializers/serializer.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/serializers/serializer.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/serializers/xliff.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/serializers/xliff.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/serializers/xliff2.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/serializers/xliff2.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/serializers/xmb.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/serializers/xmb.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/serializers/xml_helper.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/serializers/xml_helper.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/serializers/xtb.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/serializers/xtb.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/translation_bundle.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/i18n/translation_bundle.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/identifiers.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/identifiers.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/injectable.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/injectable.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/jit/compiler.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/jit/compiler.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/jit/compiler_factory.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/jit/compiler_factory.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/jit/jit_reflector.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/jit/jit_reflector.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/lifecycle_reflector.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/lifecycle_reflector.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/metadata_resolver.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/metadata_resolver.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ml_parser/ast.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ml_parser/ast.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ml_parser/html_parser.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ml_parser/html_parser.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ml_parser/html_tags.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ml_parser/html_tags.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ml_parser/html_whitespaces.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ml_parser/html_whitespaces.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ml_parser/icu_ast_expander.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ml_parser/icu_ast_expander.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ml_parser/interpolation_config.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ml_parser/interpolation_config.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ml_parser/lexer.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ml_parser/lexer.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ml_parser/parser.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ml_parser/parser.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ml_parser/tags.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ml_parser/tags.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ml_parser/xml_parser.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ml_parser/xml_parser.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ml_parser/xml_tags.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ml_parser/xml_tags.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ng_module_compiler.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ng_module_compiler.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ng_module_resolver.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/ng_module_resolver.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/output/abstract_emitter.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/output/abstract_emitter.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/output/abstract_js_emitter.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/output/abstract_js_emitter.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/output/output_ast.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/output/output_ast.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/output/output_interpreter.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/output/output_interpreter.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/output/output_jit.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/output/output_jit.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/output/source_map.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/output/source_map.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/output/ts_emitter.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/output/ts_emitter.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/output/value_util.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/output/value_util.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/parse_util.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/parse_util.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/pipe_resolver.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/pipe_resolver.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/provider_analyzer.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/provider_analyzer.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/resource_loader.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/resource_loader.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/schema/dom_element_schema_registry.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/schema/dom_element_schema_registry.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/schema/dom_security_schema.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/schema/dom_security_schema.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/schema/element_schema_registry.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/schema/element_schema_registry.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/selector.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/selector.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/shadow_css.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/shadow_css.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/style_compiler.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/style_compiler.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/style_url_resolver.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/style_url_resolver.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/summary_resolver.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/summary_resolver.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/template_parser/binding_parser.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/template_parser/binding_parser.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/template_parser/template_ast.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/template_parser/template_ast.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/template_parser/template_parser.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/template_parser/template_parser.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/template_parser/template_preparser.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/template_parser/template_preparser.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/url_resolver.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/url_resolver.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/util.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/util.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/version.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/version.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/view_compiler/provider_compiler.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/view_compiler/provider_compiler.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/view_compiler/view_compiler.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/src/view_compiler/view_compiler.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/testing.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/testing.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/testing/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/testing/index.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/testing/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/testing/src/directive_resolver_mock.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/testing/src/directive_resolver_mock.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/testing/src/metadata_overrider.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/testing/src/metadata_overrider.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/testing/src/ng_module_resolver_mock.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/testing/src/ng_module_resolver_mock.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/testing/src/pipe_resolver_mock.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/testing/src/pipe_resolver_mock.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/testing/src/schema_registry_mock.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/testing/src/schema_registry_mock.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/testing/src/testing.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/testing/src/testing.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/@angular/core.es5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/@angular/core.es5.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/@angular/core.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/@angular/core.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/@angular/core/testing.es5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/@angular/core/testing.es5.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/@angular/core/testing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/@angular/core/testing.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/bundles/core-testing.umd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/bundles/core-testing.umd.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/bundles/core-testing.umd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/bundles/core-testing.umd.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/bundles/core.umd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/bundles/core.umd.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/bundles/core.umd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/bundles/core.umd.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/core.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/core.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/public_api.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/animation/animation_metadata_wrapped.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/animation/dsl.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/application_init.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/application_module.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/application_ref.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/application_tokens.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/change_detection.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/change_detection/change_detection.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/change_detection/change_detection_util.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/change_detection/change_detector_ref.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/change_detection/constants.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/change_detection/differs/default_iterable_differ.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/change_detection/differs/default_keyvalue_differ.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/change_detection/differs/iterable_differs.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/change_detection/differs/keyvalue_differs.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/change_detection/pipe_transform.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/codegen_private_exports.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/console.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/core.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/core_private_export.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/debug/debug_node.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/di.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/di/forward_ref.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/di/injection_token.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/di/injector.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/di/metadata.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/di/provider.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/di/reflective_errors.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/di/reflective_injector.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/di/reflective_key.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/di/reflective_provider.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/error_handler.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/errors.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/event_emitter.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/i18n/tokens.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/linker.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/linker/compiler.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/linker/component_factory.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/linker/component_factory_resolver.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/linker/element_ref.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/linker/ng_module_factory.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/linker/ng_module_factory_loader.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/linker/query_list.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/linker/system_js_ng_module_factory_loader.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/linker/template_ref.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/linker/view_container_ref.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/linker/view_ref.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/metadata.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/metadata/di.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/metadata/directives.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/metadata/lifecycle_hooks.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/metadata/ng_module.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/metadata/view.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/platform_core_providers.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/profile/profile.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/profile/wtf_impl.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/reflection/platform_reflection_capabilities.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/reflection/reflection.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/reflection/reflection_capabilities.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/reflection/reflector.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/reflection/types.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/render.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/render/api.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/security.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/testability/testability.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/testability/testability.externs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/type.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/util.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/util/decorators.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/util/lang.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/version.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@angular/core/src/view/element.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/dist/" />
@@ -1135,9 +40,29 @@
     <session id="-918177103">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.17" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="json" value="1" />
+          <entry key="ts" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="1" />
+          <entry key="TypeScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="Angular2LanguageService" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -1155,9 +80,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/upload/form-upload/form-upload.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/proxy.conf.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -1180,10 +125,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="141" />
-    <option name="y" value="101" />
-    <option name="width" value="1400" />
-    <option name="height" value="980" />
+    <option name="x" value="32767" />
+    <option name="y" value="32767" />
+    <option name="width" value="1940" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -1191,6 +136,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1203,20 +149,41 @@
               <item name="Angular4Upload" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Angular4Upload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular4Upload" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular4Upload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular4Upload" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="upload" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular4Upload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular4Upload" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="upload" type="462c0819:PsiDirectoryNode" />
+              <item name="form-upload" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/OwnProjects/MyMessenger/oauth-angular6-client" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="C:\Users\arde0718\Documents\Custom\Angular4Upload\node_modules\tslint" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\arde0718\Documents\Custom\SpringBoot-Angular4-Upload\SpringBoot-Angular4-Upload\Angular4Upload\node_modules\typescript\lib" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1230,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="npm.Angular CLI Server">
+  <component name="RunManager" selected="JavaScript Debug.Angular Application">
     <configuration name="Angular Application" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:4200">
       <method v="2" />
     </configuration>
@@ -1262,22 +229,24 @@
       <workItem from="1534752887932" duration="333000" />
       <workItem from="1534753332355" duration="2022000" />
       <workItem from="1534757017969" duration="527000" />
+      <workItem from="1534766064518" duration="596000" />
+      <workItem from="1544172954534" duration="973000" />
+      <workItem from="1544180370460" duration="859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2882000" />
+    <option name="totallyTimeSpent" value="5310000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="141" y="101" width="1400" height="980" extended-state="0" />
-    <editor active="true" />
+    <frame x="32767" y="32767" width="1940" height="1100" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1787592" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32978722" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28881988" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1286,6 +255,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32978722" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1309,6 +279,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/upload/form-upload/form-upload.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy.conf.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
